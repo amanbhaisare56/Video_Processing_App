@@ -1,6 +1,6 @@
 📦 Setup
 1. Clone repo
-git clone https://github.com/your-repo/video-processing-app.git
+git clone https://github.com/amanbhaisare56/Video_Processing_App/tree/main
 cd video-processing-app
 
 2. Run with Docker
@@ -57,3 +57,4 @@ curl -O "http://localhost:9000/videos/download/processed/sample_trimmed.mp4"
 
 
 This saves the processed video locally.
+
